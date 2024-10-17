@@ -2,7 +2,7 @@ MNIST Handwritten Digit Classification Using Deep Learning
 
 Overview:
 
-This project demonstrates the power of Deep Learning in classifying handwritten digits from the MNIST dataset. By implementing a simple Neural Network (NN), the model achieves an impressive accuracy of 96%. The project includes essential steps like Exploratory Data Analysis (EDA), data preprocessing, and visualizations (e.g., confusion matrix) to better understand and evaluate the model's performance.
+This project demonstrates the power of Deep Learning in classifying handwritten digits from the MNIST dataset. By implementing a simple Neural Network (NN), the model achieves an impressive accuracy of 98%. The project includes essential steps like Exploratory Data Analysis (EDA), data preprocessing, and visualizations (e.g., confusion matrix) to better understand and evaluate the model's performance.
 
 Dataset:
 
@@ -42,5 +42,5 @@ The neural network model was able to achieve the following results:
 
 Metric--> Value
 
-Accuracy:	98%
+Accuracy:	98% ,
 Loss:  0.0346 
